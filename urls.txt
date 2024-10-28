@@ -1,0 +1,8 @@
+https://github.com/bchimagine/fetal-brain-extraction_t2w/raw/54a73dc649a377651787ed48ec0494a98f165303/data/test_normal/Normal01/fetus_04.nii
+https://github.com/bchimagine/fetal-brain-extraction_t2w/raw/54a73dc649a377651787ed48ec0494a98f165303/data/test_normal/Normal01/fetus_05.nii
+https://github.com/bchimagine/fetal-brain-extraction_t2w/raw/54a73dc649a377651787ed48ec0494a98f165303/data/test_normal/Normal01/fetus_06.nii
+https://github.com/bchimagine/fetal-brain-extraction_t2w/raw/54a73dc649a377651787ed48ec0494a98f165303/data/test_normal/Normal01/fetus_07.nii
+https://github.com/bchimagine/fetal-brain-extraction_t2w/raw/54a73dc649a377651787ed48ec0494a98f165303/data/test_normal/Normal01/fetus_08.nii
+https://github.com/bchimagine/fetal-brain-extraction_t2w/raw/54a73dc649a377651787ed48ec0494a98f165303/data/test_normal/Normal01/fetus_09.nii
+https://github.com/bchimagine/fetal-brain-extraction_t2w/raw/54a73dc649a377651787ed48ec0494a98f165303/data/test_normal/Normal01/fetus_10.nii
+https://github.com/bchimagine/fetal-brain-extraction_t2w/raw/54a73dc649a377651787ed48ec0494a98f165303/data/test_normal/Normal01/fetus_11.nii
